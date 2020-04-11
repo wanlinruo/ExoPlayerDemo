@@ -1,2 +1,4 @@
 rootProject.name='ExoPlayerDemo'
 include ':app'
+include ':oss'
+include ':video'
