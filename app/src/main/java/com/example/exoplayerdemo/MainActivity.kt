@@ -2,6 +2,11 @@ package com.example.exoplayerdemo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.exoplayer.demo.ListingActivity
+import com.example.exoplayer.demo.SingleActivity
+import com.example.exoplayer.demo.DownloadActivity
+import com.example.exoplayer.demo.UploadActivity
+import com.example.exoplayerdemo.util.jumpActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 

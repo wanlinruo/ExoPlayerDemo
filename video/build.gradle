@@ -35,5 +35,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     //添加依赖项-完整的ExoPlayer库
-    api 'com.google.android.exoplayer:exoplayer:2.11.4'
+    implementation 'com.google.android.exoplayer:exoplayer:2.11.4'
+
+    //material
+    implementation 'com.google.android.material:material:1.1.0'
 }

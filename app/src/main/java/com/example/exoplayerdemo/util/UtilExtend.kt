@@ -1,4 +1,4 @@
-package com.example.exoplayerdemo
+package com.example.exoplayerdemo.util
 
 import android.app.Activity
 import android.content.Intent

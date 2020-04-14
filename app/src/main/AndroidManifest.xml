@@ -19,10 +19,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SingleActivity" />
-        <activity android:name=".ListingActivity" />
-        <activity android:name=".UploadActivity"/>
-        <activity android:name=".DownloadActivity" />
     </application>
 
 </manifest>

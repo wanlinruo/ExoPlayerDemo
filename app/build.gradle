@@ -45,7 +45,6 @@ dependencies {
     implementation project(':video')
 
 
-    //material
-    implementation 'com.google.android.material:material:1.1.0'
+
 
 }
