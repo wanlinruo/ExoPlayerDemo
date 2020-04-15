@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.video" >
+    package="com.example.exoplayer.demo.video" >
 
     <application>
-        <activity android:name="com.example.exoplayer.demo.SingleActivity" />
-        <activity android:name="com.example.exoplayer.demo.ListingActivity" />
+        <activity android:name=".SingleActivity" />
+        <activity android:name=".ListingActivity" />
     </application>
 </manifest>

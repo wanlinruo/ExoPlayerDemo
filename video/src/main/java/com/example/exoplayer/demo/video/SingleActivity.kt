@@ -1,9 +1,8 @@
-package com.example.exoplayer.demo
+package com.example.exoplayer.demo.video
 
 import android.net.Uri
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.video.R
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.SimpleExoPlayer
 import com.google.android.exoplayer2.source.ConcatenatingMediaSource

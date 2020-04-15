@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.oss">
+    package="com.example.exoplayer.demo.oss">
 
     <application>
-        <activity android:name="com.example.exoplayer.demo.UploadActivity" />
-        <activity android:name="com.example.exoplayer.demo.DownloadActivity" />
+        <activity android:name=".UploadActivity" />
+        <activity android:name=".DownloadActivity" />
     </application>
 
 </manifest>

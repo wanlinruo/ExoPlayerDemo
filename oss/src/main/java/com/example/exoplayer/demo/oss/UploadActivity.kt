@@ -1,8 +1,7 @@
-package com.example.exoplayer.demo
+package com.example.exoplayer.demo.oss
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.oss.R
+import androidx.appcompat.app.AppCompatActivity
 
 class UploadActivity : AppCompatActivity() {
 

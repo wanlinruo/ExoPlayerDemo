@@ -1,8 +1,7 @@
-package com.example.exoplayer.demo
+package com.example.exoplayer.demo.video
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.video.R
+import androidx.appcompat.app.AppCompatActivity
 
 class ListingActivity : AppCompatActivity() {
 

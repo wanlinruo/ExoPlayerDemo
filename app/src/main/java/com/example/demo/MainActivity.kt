@@ -1,12 +1,12 @@
-package com.example.exoplayerdemo
+package com.example.demo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.exoplayer.demo.ListingActivity
-import com.example.exoplayer.demo.SingleActivity
-import com.example.exoplayer.demo.DownloadActivity
-import com.example.exoplayer.demo.UploadActivity
-import com.example.exoplayerdemo.util.jumpActivity
+import com.example.exoplayer.demo.video.ListingActivity
+import com.example.exoplayer.demo.video.SingleActivity
+import com.example.exoplayer.demo.oss.DownloadActivity
+import com.example.exoplayer.demo.oss.UploadActivity
+import com.example.demo.util.jumpActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 
